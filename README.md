@@ -1,6 +1,6 @@
 # Advanced Algorithms and Data Structures – ID 222951
 
-###University of Zagreb – Faculty of Electrical Engineering and Computing 
+### University of Zagreb – Faculty of Electrical Engineering and Computing 
 
 Laboratory exercise solutions:
 - Lab 1 and 2: Too simple, did not write solutions down
